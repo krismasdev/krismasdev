@@ -1,9 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 
-<h1 align="center">नमस्ते! (Namaste!) </h1>
-<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(10).png"/>
-
+<h1 align="center"> Welcome 🖐 </h1>
 <div align = 'center'>
 <!---
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Abhishek%20Sharma&height=150&fontSize=80&desc=Kolkata,%20IN&descAlignY=75&descAlign=82.4"/></div>
